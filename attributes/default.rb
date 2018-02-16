@@ -1,6 +1,6 @@
 default[:contrast_agent][:owner] = "contrast"
 default[:contrast_agent][:owner_group] = "contrast"
-default[:contrast_agent][:install_path] = "/opt/contrast/"
+default[:contrast_agent][:install_path] = "/opt/contrast"
 
 default[:contrast_agent][:teamserver_url] = "https://app.contrastsecurity.com"
 default[:contrast_agent][:teamserver_org_uuid] = "ORG_UUID_AS_PER_UI"
